@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "moa",
+        "repositoryURL": "https://github.com/evgenyneu/moa",
+        "state": {
+          "branch": null,
+          "revision": "844b6eb4123d0f3dba7130554b71785fcd0dabc8",
+          "version": "12.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
